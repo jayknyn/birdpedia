@@ -1,2 +1,2 @@
 # birdpedia
-Full stack web app build in Go
+Full stack web app built in Go
